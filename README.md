@@ -2,10 +2,10 @@
 
 
 ### Issue Case
-####1. Session 진행 중 중도 나가기
+#### 1. Session 진행 중 중도 나가기
 
 
-####2. Notice
+#### 2. Notice
 
 [Sign in]-[Menu Bar]-[Notice]-[Main Page]
 > 별도 조건 없이 로그인 후 [Notice] 탭 접근 시 에러화면 전환, 메인 시작 화면으로 이동
