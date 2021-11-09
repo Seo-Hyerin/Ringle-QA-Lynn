@@ -1,7 +1,7 @@
-# Ringle-QA-Lynn *Tutor*
+# Ringle QA Lynn
+##*Tutor*
 
-
-## Issue Case
+### Issue Case
 1. Notice
 
 [Sign in]-[Menu Bar]-[Notice]-[Main Page]
