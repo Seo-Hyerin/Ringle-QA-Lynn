@@ -1,4 +1,4 @@
-# Ringle QA Lynn - *Tutor*
+# Ringle QA - *Tutor*
 
 
 ### Issue Case
