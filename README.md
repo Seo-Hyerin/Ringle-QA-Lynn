@@ -1,5 +1,5 @@
 # Ringle QA Lynn
-##*Tutor*
+##Tutor
 
 ### Issue Case
 1. Notice
