@@ -4,10 +4,10 @@
 ### 1. iPad Zoom 화면 띄워놓고 세션 진행하기 - Tutor / Student
 
 - 테스트 케이스<br/>
-(1) 튜터 or 학생이 iPad를 통해 수업 입장
-(2) Zoom 입장
-(3) 세션 진행
-(4) 세션 종료
+(1) 튜터 or 학생이 iPad를 통해 수업 입장<br/>
+(2) Zoom 입장<br/>
+(3) 세션 진행<br/>
+(4) 세션 종료<br/>
 
 - Issue Point<br/>
 iPad 기종을 사용할 경우 Zoom 화면 최소화 하여도 수업창과 동시에 확인 불가
