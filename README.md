@@ -1,7 +1,7 @@
 # Ringle QA - *Tutor&Student Issue Cases*
 
 
-### 1. iPad Zoom 화면 띄워놓고 세션 진행하기 - Tutor / Student
+### 1. iPad 기종 Zoom 화면 띄워놓고 세션 진행하기 - Tutor / Student
 
 - 테스트 케이스<br/>
 (1) 튜터 or 학생이 iPad를 통해 수업 입장<br/>
