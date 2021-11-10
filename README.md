@@ -32,11 +32,11 @@
 
 #### 4. Notice. 
 
-- 테스트 케이스. 
+- 테스트 케이스<br/>
 [Sign in]-[Menu Bar]-[Notice]-[Main Page]
 
-- Issue Point와 개선방안. 
-별도 조건 없이 로그인 후 [Notice] 탭 접근 시 에러화면 전환, 메인 시작 화면으로 이동. 
-현재도 로그아웃 되는 상황이 아니므로 [Home] 화면으로 연결. 
+- Issue Point와 개선방안<br/>
+별도 조건 없이 로그인 후 [Notice] 탭 접근 시 에러화면 전환, 메인 시작 화면으로 이동<br/>
+현재도 로그아웃 되는 상황이 아니므로 [Home] 화면으로 연결<br/>
 
 <img width="200" alt="Tutor_Notice_Issue" src="https://user-images.githubusercontent.com/93983402/140917691-d440bdbd-df56-44ba-92ee-c44ce8e2279a.png">  <img width="450" alt="Tutor_Notice_Home_Isuue" src="https://user-images.githubusercontent.com/93983402/140917717-2f917790-cbd7-4511-9cc5-3d86b3d03782.png" >
