@@ -25,12 +25,7 @@
 
 
 
-### 3. iPhone Zoom 화면 띄워놓고 세션 진행하기 - Tutor / Student
-
-
-
-
-### 4. Notice. 
+### 3. Notice. 
 
 - 테스트 케이스<br/>
 [Sign in]-[Menu Bar]-[Notice]-[Main Page]
